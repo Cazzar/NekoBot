@@ -1,0 +1,9 @@
+{
+  "name": "neko-bot",
+  "version": "0.0.0",
+  "description": "NekoBot",
+  "main": "app.js",
+  "author": {
+    "name": "Cayde"
+  }
+}
