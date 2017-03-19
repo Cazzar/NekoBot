@@ -5,5 +5,14 @@
   "main": "app.js",
   "author": {
     "name": "Cayde"
+  },
+  "dependencies": {
+    "debug": "^2.6.3",
+    "discordful": "^1.0.4",
+    "discordful-commander": "^1.0.2",
+    "glob": "^7.1.1",
+    "lodash": "^4.17.4",
+    "require-uncached": "^1.0.3",
+    "booru": "^0.2.0"    
   }
 }
